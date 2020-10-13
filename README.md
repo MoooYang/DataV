@@ -17,3 +17,12 @@ The pink line is the illnesses, black line is ospitalizations, and the blue line
 
 #### Interaction
 When mouse moves to the line, it will show the exact value at that position.
+
+
+## Schedule of Deliverables
+
+* Collecting and preprocessing the data (Oct 10)
+* Answer the second question with a bar chart (Oct 14)
+* Answer the third question with a distribution map (Oct 21)
+* Answer the first question with a Time-Series plot (Oct 28)
+* Refact the code and report (Nov 4)
