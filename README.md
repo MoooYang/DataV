@@ -18,7 +18,7 @@ The pink line is the illnesses, black line is ospitalizations, and the blue line
 We can see from the plot that the outbreaks have a significant seasonality. The value reaches the peak at the beginning of the year and drops down till the end of summer. We may conclude that it is more possible to get infected in winter that in summer.
 
 ### 2. Distribution Map
-This plot shows the distribution of the Outbreaks. Darker color means larger number and it supports interactive functions like showing the number and state name.
+This plot shows the distribution of the Outbreaks. Darker color means larger number.
 
 ![image](https://github.com/MoooYang/DataV/blob/master/%E6%88%AA%E5%B1%8F2020-11-04%20%E4%B8%8B%E5%8D%8811.57.48.png)
 
