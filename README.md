@@ -1,6 +1,6 @@
 # [Data-Visualization](https://vizhub.com/MoooYang)
 
-## Data
+## [Data](https://gist.github.com/MoooYang/d9455d043b17797a5804d84df9b08c07)
 The [National Outbreak Reporting System (NORS)](https://www.cdc.gov/nors/) supports outbreak reporting by partners in state, local, and territorial public health agencies.
 It includes different types of Outbreaks such as: Food, Water, Animal, Contact, Environmental, Person to Person, Indeterminate/Unknown.
 
